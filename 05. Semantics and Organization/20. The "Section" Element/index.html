@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>the "section" element</title>
+</head>
+<body>
+
+    <h1>the section element explained <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section">here</a>.</h1>
+
+    <p>The HTML &lt;section&gt; element represents a standalone section of functionality contained within an HTML document, typically with a heading, which doesn't have a more specific semantic element to represent it.
+
+        As an example, a navigation menu should be wrapped in a &lt;nav&gt; element, but a list of search results and a map display and its controls don't have specific elements, and could be put inside a &lt;section&gt;.</p>
+
+    <hr>
+
+    <header>
+        <h1>book title</h1>
+    </header>
+
+    <section><!--main section-->
+        <h1>&lt;h1&gt; element</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, at atque commodi cum dicta distinctio eos ex excepturi, iste magni obcaecati placeat praesentium quam quidem saepe, suscipit ullam veritatis voluptas.</p>
+
+        <section><!--sub-section-->
+            <h1>&lt;h1&gt; element, smaller because it's in a sub-section</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus amet aut fuga maxime quasi quod ut? Aperiam aut dicta doloribus fugiat illum ipsa ipsam ipsum laboriosam quia quos recusandae, velit.</p>
+
+            <section><!--sub-sub-section-->
+                <h1>&lt;h1&gt; element, even smaller because it's in a sub-sub-section</h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, autem consectetur explicabo id incidunt ipsa maxime molestiae molestias nesciunt nihil, nisi nulla odio officia quae quas repellendus sint tenetur voluptatibus.</p>
+            </section><!--sub-sub-section-->
+        </section><!--sub-section-->
+    </section><!--main section-->
+
+</body>
+</html>

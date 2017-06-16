@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d44efe23-b5c0-42e6-854b-ae8cc9a387a1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05. Semantics and Organization/17. Navigation/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05. Semantics and Organization/17. Navigation/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05. Semantics and Organization/17. Navigation/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05. Semantics and Organization/18. Non-semantic Elements (&quot;div&quot; and &quot;span&quot;)/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05. Semantics and Organization/20. The &quot;Section&quot; Element/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06. Forms/21. Forms/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06. Forms/22. Different Types of Inputs/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05. Semantics and Organization/17. Navigation/index.html" afterPath="$PROJECT_DIR$/05. Semantics and Organization/17. Navigation/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,32 +25,49 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04: Text Basics/15. Special Characters/index.html">
+        <entry file="file://$PROJECT_DIR$/05. Semantics and Organization/20. The &quot;Section&quot; Element/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+            <state relative-caret-position="487">
+              <caret line="30" column="245" lean-forward="true" selection-start-line="30" selection-start-column="245" selection-end-line="30" selection-end-column="245" />
               <folding>
-                <element signature="e#286#293#1" expanded="true" />
-                <element signature="e#362#369#1" expanded="true" />
-                <element signature="e#439#446#1" expanded="true" />
-                <element signature="e#515#522#1" expanded="true" />
-                <element signature="e#583#588#1" expanded="true" />
-                <element signature="e#652#656#1" expanded="true" />
-                <element signature="e#717#721#1" expanded="true" />
-                <element signature="e#782#788#1" expanded="true" />
-                <element signature="e#850#855#1" expanded="true" />
-                <element signature="e#916#923#1" expanded="true" />
+                <element signature="e#270#274#0" expanded="true" />
+                <element signature="e#281#285#0" expanded="true" />
+                <element signature="e#538#542#0" expanded="true" />
+                <element signature="e#545#549#0" expanded="true" />
+                <element signature="e#679#683#0" expanded="true" />
+                <element signature="e#690#694#0" expanded="true" />
+                <element signature="e#812#816#0" expanded="true" />
+                <element signature="e#818#822#0" expanded="true" />
+                <element signature="e#1124#1128#0" expanded="true" />
+                <element signature="e#1130#1134#0" expanded="true" />
+                <element signature="e#1473#1477#0" expanded="true" />
+                <element signature="e#1479#1483#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/05. Semantics and Organization/17. Navigation/index.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06. Forms/21. Forms/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="528">
+              <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/06. Forms/22. Different Types of Inputs/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+              <folding>
+                <element signature="e#595#599#0" expanded="true" />
+                <element signature="e#615#619#0" expanded="true" />
+                <element signature="e#861#865#0" expanded="true" />
+                <element signature="e#873#877#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -75,7 +99,16 @@
         <option value="$PROJECT_DIR$/04: Text Basics/15. Special Characters/index.html" />
         <option value="$PROJECT_DIR$/04: Text Basics/16. Semantic Structural Elements/index.html" />
         <option value="$PROJECT_DIR$/05. Semantics &amp; Organization/16. Semantic Structural Elements/index.html" />
+        <option value="$PROJECT_DIR$/05. Semantics and Organization/16. Semantic Structural Elements/index.html" />
         <option value="$PROJECT_DIR$/05. Semantics and Organization/17. Navigation/index.html" />
+        <option value="$PROJECT_DIR$/05. Semantics and Organization/17. Navigation/about.html" />
+        <option value="$PROJECT_DIR$/05. Semantics and Organization/17. Navigation/contact.html" />
+        <option value="$PROJECT_DIR$/05. Semantics and Organization/18. Non-semantic Elements (&quot;div&quot; and &quot;span&quot;)/index.html" />
+        <option value="$PROJECT_DIR$/05. Semantics and Organization/20. The &quot;Section&quot; Element.html" />
+        <option value="$PROJECT_DIR$/05. Semantics and Organization/20. The &quot;Section&quot; Element/indexd.html" />
+        <option value="$PROJECT_DIR$/05. Semantics and Organization/20. The &quot;Section&quot; Element/index.html" />
+        <option value="$PROJECT_DIR$/05. Semantics and Organization/21. Forms/index.html" />
+        <option value="$PROJECT_DIR$/06. Forms/22. Different Types of Inputs/index.html" />
       </list>
     </option>
   </component>
@@ -131,11 +164,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="05. Semantics and Organization" />
+              <option name="myItemId" value="06. Forms" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="17. Navigation" />
+              <option name="myItemId" value="22. Different Types of Inputs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web-design-real-world-coding-in-html-css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web-design-real-world-coding-in-html-css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="06. Forms" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -180,11 +227,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/06. Forms" />
       <recent name="$PROJECT_DIR$/05. Semantics &amp; Organization" />
       <recent name="$PROJECT_DIR$/04: Text Basics/14: Bold &amp; Italic" />
       <recent name="$PROJECT_DIR$/04: Text Basics/\" />
       <recent name="$PROJECT_DIR$/3: Adding Media to a Web Page/10. Audio Files/audio" />
-      <recent name="$PROJECT_DIR$/3: Adding Media to a Web Page/9. Images/img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -279,24 +326,23 @@
       <updated>1497457712009</updated>
       <workItem from="1497457721010" duration="6067000" />
       <workItem from="1497544008962" duration="4626000" />
-      <workItem from="1497636010688" duration="422000" />
+      <workItem from="1497636010688" duration="5946000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11115000" />
+    <option name="totallyTimeSpent" value="16639000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-1" width="1922" height="1050" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21454929" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12255965" sideWeight="0.501845" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24986821" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12255965" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12255965" sideWeight="0.49815497" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -475,11 +521,97 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/05. Semantics and Organization/16. Semantic Structural Elements/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="47" column="16" lean-forward="true" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+          <folding>
+            <element signature="e#1981#1987#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/05. Semantics and Organization/17. Navigation/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="20" selection-end-column="10" />
+          <folding>
+            <element signature="e#2189#2195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. Semantics and Organization/17. Navigation/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. Semantics and Organization/17. Navigation/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. Semantics and Organization/18. Non-semantic Elements (&quot;div&quot; and &quot;span&quot;)/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. Semantics and Organization/20. The &quot;Section&quot; Element.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. Semantics and Organization/20. The &quot;Section&quot; Element/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="30" column="245" lean-forward="true" selection-start-line="30" selection-start-column="245" selection-end-line="30" selection-end-column="245" />
+          <folding>
+            <element signature="e#270#274#0" expanded="true" />
+            <element signature="e#281#285#0" expanded="true" />
+            <element signature="e#538#542#0" expanded="true" />
+            <element signature="e#545#549#0" expanded="true" />
+            <element signature="e#679#683#0" expanded="true" />
+            <element signature="e#690#694#0" expanded="true" />
+            <element signature="e#812#816#0" expanded="true" />
+            <element signature="e#818#822#0" expanded="true" />
+            <element signature="e#1124#1128#0" expanded="true" />
+            <element signature="e#1130#1134#0" expanded="true" />
+            <element signature="e#1473#1477#0" expanded="true" />
+            <element signature="e#1479#1483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. Forms/21. Forms/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. Forms/22. Different Types of Inputs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="e#595#599#0" expanded="true" />
+            <element signature="e#615#619#0" expanded="true" />
+            <element signature="e#861#865#0" expanded="true" />
+            <element signature="e#873#877#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
