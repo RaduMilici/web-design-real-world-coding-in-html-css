@@ -1,0 +1,15 @@
+.box-a {
+    background-color: lightgray;
+    padding: 30px;
+    margin-bottom: 20px;
+    border: 3px solid black;
+    width: 200px;
+    height: 150px;
+    box-sizing: border-box;/*https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing?v=example*/
+}
+
+.box-b {
+    background-color: orange;
+    width: 200px;
+    height: 150px;
+}

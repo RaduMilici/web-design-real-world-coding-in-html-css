@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>choose between a set of options</title>
+</head>
+<body>
+
+
+    <!--select (dropdown)-->
+    <label for="colorSelect">what is your favorite color?</label>
+
+    <select name="colorSelector" id="colorSelect">
+        <option value="colorRed">red</option>
+        <option value="colorOrange">orange</option>
+        <option value="colorYellow">yellow</option>
+    </select>
+    <br>
+    <br>
+
+    <!--radio-->
+    <!--The <fieldset> tag is used to group related elements in a form.
+        The <fieldset> tag draws a box around the related elements.-->
+    <fieldset>
+        <legend>What is your favorite meal?</legend>
+
+        <input type="radio" id="breakfastInput" name="meal" value="meal1">
+        <label for="breakfastInput">breakfast</label>
+
+        <input type="radio" id="lunchInput" name="meal" value="meal2">
+        <label for="lunchInput">lunch</label>
+
+        <input type="radio" id="dinnerInput" name="meal" value="meal3">
+        <label for="dinnerInput">dinner</label>
+    </fieldset>
+    <br>
+
+    <!--checkboxes-->
+    <fieldset>
+        <legend>What pets do you have?</legend>
+
+        <input type="checkbox" name="dogCheck" id="petDog"  value="pet1">
+        <label for="petDog">dog</label>
+
+        <input type="checkbox" name="catCheck" id="petCat"  value="pet2">
+        <label for="petCat">cat</label>
+
+        <input type="checkbox" name="hamsterCheck" id="petHamster" value="pet3">
+        <label for="petHamster">hamster</label>
+    </fieldset>
+
+</body>
+</html>
