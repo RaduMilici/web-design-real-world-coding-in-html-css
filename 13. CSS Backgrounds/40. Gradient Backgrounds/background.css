@@ -1,0 +1,89 @@
+body {
+    background-image: url('img/fabric-pattern.png');
+    margin: 0;
+}
+
+header {
+    border: 2px solid black;
+    border-radius: 10px;
+    background-image: url('img/wetlands.jpg');
+    background-size: cover;
+    padding: 10px;
+}
+
+header h1,
+header p{
+    margin: 0;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    text-shadow:
+            -1px -1px 0 white,
+            1px -1px 0 white,
+            -1px 1px 0 white,
+            1px 1px 0 white;
+}
+
+.container {
+    height: 100vh;
+    width: 80%;
+    margin: auto;
+}
+
+article {
+    margin: 10px 0;
+    color: #0091ff;
+    background-color: #3e3e3e;
+    border: 1px solid black;
+    box-sizing: border-box;
+    width: 80%;
+    padding: 10px;
+    text-indent: 20px;
+    float: right;
+}
+
+.sidebar {
+    margin: 10px 0;
+    padding: 10px;
+    width: 19%;
+    box-sizing: border-box;
+    border: 1px solid #0091ff;
+    background-color: #3e3e3e;
+    background-image: linear-gradient(to bottom, #0091ff, );
+}
+
+.sidebar p {
+    margin: 0;
+}
+
+article img {
+    width: 25%;
+    float: right;
+    border-radius: 10px;
+    margin: 10px;
+    border: 1px #0091ff;
+}
+
+footer {
+    font-size: 85%;
+    border: 1px solid black;
+    box-sizing: border-box;
+    height: 100px;
+    color: dodgerblue;
+    background: url('img/wetlands.jpg') no-repeat center top;
+    background-size: cover;
+    position: relative;
+}
+
+footer p {
+    position: absolute;
+    display: block;
+    margin: 0 10px 0 0;
+    bottom: 0;
+    right: 0;
+}
+
+.clearfix {
+    content: "";
+    display: table;
+    clear: both;
+}

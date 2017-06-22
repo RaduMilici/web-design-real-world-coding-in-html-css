@@ -1,0 +1,61 @@
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+/*hidden from view but screen reading devices still access them*/
+.hidden-label {
+    position: absolute;
+    height: 0;
+    width: 0;
+    overflow: hidden;
+    visibility: hidden;
+}
+
+form {
+    background-color: #ececec;
+    padding: 30px 40px ;
+}
+
+input,
+select {
+    font-family: sans-serif;
+    font-size: 100%;
+}
+
+input[type="email"],
+input[type="password"],
+select {
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    padding: 0 10px;
+    height: 40px;
+    margin-bottom: 15px;
+    border: 1px solid lightgray;
+}
+
+input[type="email"]:focus,
+input[type="password"]:focus {
+    border: 1px solid #869960;
+    box-shadow: inset 2px 2px 2px rgba(0, 0, 0, 0.2);
+}
+
+input[type="submit"] {
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    background-color: #869960;
+    color: white;
+    padding: 10px 0;
+    border: 1px solid #798a56;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+input[type="submit"]:hover,
+input[type="submit"]:focus {
+    border: 1px solid #535e3b;
+    background-color: #798a56;
+}
+

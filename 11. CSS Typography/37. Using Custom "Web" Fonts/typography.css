@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Bully';
+    src: url('fonts/bully.ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+p {
+    text-indent: 35px;
+}
+
+/*hosted fonts*/
+#pangolin {
+    font-family: 'Pangolin', cursive;
+}
+
+#quicksand {
+    font-family: 'Quicksand', sans-serif;
+}
+
+/*local fonts*/
+
+
+#bully {
+    font-family: Bully, sans-serif;
+    font-size: 150%;
+}
